@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "notes":  "Primeira versao publica do MacroWyd.",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.0/mw-1.0.0.exe",
-    "sha256":  "002c2433e4f2208a5da0eb3d00b22e20b9582942d76ed793b72c181086daf358"
+    "version":  "1.0.1",
+    "notes":  "Resolucoes 1024x768 e 1280x1024 na Fada, robustez na abertura do inventario, Dragon Field monitorada continuamente, contador de checagem de morte e correcoes.",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.1/mw-1.0.1.exe",
+    "sha256":  "b3209a1586957bec9f892bcfb2cfc9143092a51ffb1863a426a640a98e46c92b"
 }
