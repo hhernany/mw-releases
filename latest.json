@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "notes":  "Resolucoes 1024x768 e 1280x1024 na Fada, robustez na abertura do inventario, Dragon Field monitorada continuamente, contador de checagem de morte e correcoes.",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.1/mw-1.0.1.exe",
-    "sha256":  "b3209a1586957bec9f892bcfb2cfc9143092a51ffb1863a426a640a98e46c92b"
+    "version":  "1.0.2",
+    "notes":  "Racao da montaria (alimentar com V; desequipar ao acabar), Protecao adicional por classe na Fada, PARAR/PAUSAR responsivo e reorganizacao das Configuracoes em abas.",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.2/mw-1.0.2.exe",
+    "sha256":  "7b15c84ce2fb29217aac3b476f2bc2f82f13982649440aaafd7a224012be6200"
 }
