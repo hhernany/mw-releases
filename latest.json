@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Racao da montaria (alimentar com V; desequipar ao acabar), Protecao adicional por classe na Fada, PARAR/PAUSAR responsivo e reorganizacao das Configuracoes em abas.",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.2/mw-1.0.2.exe",
-    "sha256":  "7b15c84ce2fb29217aac3b476f2bc2f82f13982649440aaafd7a224012be6200"
+    "version":  "1.0.3",
+    "notes":  "Corrige um travamento intermitente na inicializacao (as vezes o app nao abria). Tambem adiciona um log de diagnostico de boot.",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.3/mw-1.0.3.exe",
+    "sha256":  "28dfbe39fdf81dea3df8676feb71018222ccaf1d85349c94321ccb7362c4f776"
 }
