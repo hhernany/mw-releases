@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.4",
-    "notes":  "Corrige a deteccao de morte na Dragon Field com varias contas (antes, uma das contas podia ficar na cidade com o Dragon Guardian equipado). Adiciona uma verificacao periodica que desequipa o Dragon Guardian se o personagem voltou pra Azran, e uma nova aba de configuracao \u0027Dragon Field\u0027.",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.0.4/mw-1.0.4.exe",
-    "sha256":  "a10df8ee94c4abcd6b5bd21131c9a2e7782c85f5f8164afe9bb6c7cdefb681c0"
+    "version":  "1.1.0",
+    "notes":  "Melhorias de estabilidade",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.1.0/mw-1.1.0.exe",
+    "sha256":  "915b65b88d3120386122d6a0b06d4215138682bb1b03090861f6896d83751ede"
 }
