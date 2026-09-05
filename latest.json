@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.2",
-    "notes":  "Melhorias de estabilidade",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.1.2/mw-1.1.2.exe",
-    "sha256":  "35303047a21e37e723b64e59b4532f6247f831104e9d3cd9bdadde42676e5274"
+    "version":  "1.2.0",
+    "notes":  "Presets por personagem: crie configurações nomeadas (ex.: Baygon157 - \"Aranhas\") e aplique em qualquer janela. A tela Janelas agora tem 3 colunas (Janelas | Presets | Automações do preset), os presets ficam salvos entre aberturas do app e editar um preset vale na hora em todas as janelas que o usam. Fada: os termos \"hp\" e \"tica\" saíram da lista de proteção (seguravam itens que deveriam ser deletados) e as poções entraram por termo próprio.",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.2.0/mw-1.2.0.exe",
+    "sha256":  "67495a14a7d2c23f029eb8c7169c7d7890d2e63c2734f622fefe239595d59d01"
 }
