@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.1",
-    "notes":  "Novo botão \"Exportar\" na janela de Log: escolha uma pasta e o app salva o log num arquivo .txt, junto com um resumo da configuração (versão, resolução, presets e vínculos) — sem nenhuma senha. É o arquivo a enviar quando algo der errado e for preciso investigar. O log também passou a ser por sessão: cada vez que você abre o programa ele começa um log limpo e guarda o da sessão anterior, então o arquivo não cresce mais indefinidamente.",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.2.1/mw-1.2.1.exe",
-    "sha256":  "f92fbfe01d22fb5215d2c09e70a2da2634a425209bbb911f7b8f72ff05a435ac"
+    "version":  "1.2.2",
+    "notes":  "Versão de diagnóstico: o registro de execução (Log) ficou bem mais detalhado — passa a anotar quando você clica INICIAR, PARAR, PAUSAR e RETOMAR, quanto tempo se passou entre parar e iniciar de novo, quando cada execução realmente termina, e o motivo quando a ida ao spot não acontece. A rotina da ração também avisa no log que começou (ela leva cerca de 30 segundos por janela e antes ficava calada, parecendo travada). O funcionamento do robô não mudou em nada. Se você estiver ajudando a investigar um problema, use o botão \"Exportar\" no Log depois de reproduzi-lo.",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.2.2/mw-1.2.2.exe",
+    "sha256":  "0f6cec1951a192000852e69227f677256ef864e98ce03b6aefdec2891bc29e8b"
 }
