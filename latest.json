@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.2",
-    "notes":  "Versão de diagnóstico: o registro de execução (Log) ficou bem mais detalhado — passa a anotar quando você clica INICIAR, PARAR, PAUSAR e RETOMAR, quanto tempo se passou entre parar e iniciar de novo, quando cada execução realmente termina, e o motivo quando a ida ao spot não acontece. A rotina da ração também avisa no log que começou (ela leva cerca de 30 segundos por janela e antes ficava calada, parecendo travada). O funcionamento do robô não mudou em nada. Se você estiver ajudando a investigar um problema, use o botão \"Exportar\" no Log depois de reproduzi-lo.",
-    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.2.2/mw-1.2.2.exe",
-    "sha256":  "0f6cec1951a192000852e69227f677256ef864e98ce03b6aefdec2891bc29e8b"
+    "version":  "1.3.0",
+    "notes":  "Novos destinos de teleporte na resolução 1024x768: três pontos de Vermes (2374, 4014), (2354, 4010) e (2357, 4014). O antigo \"Vermes - 4024\" passou a se chamar \"Vermes (2376, 4012)\" — quem já usava esse spot não precisa refazer nada, o preset é atualizado sozinho. Ao conectar o personagem, a macro agora desativa as mensagens privadas, porque um pedido de troca no meio do caminho interrompia o trajeto até o spot. Ao morrer com intervalo configurado, a espera passou a ser dividida: metade na cidade e metade na tela de seleção de personagem. A tela de Janelas ficou mais legível (nome do preset e do personagem maiores e em destaque). O registro de execução também ganhou bem mais detalhe, para ajudar a investigar problemas. Fada: revisão da lista de proteção — alguns termos genéricos saíram e itens que antes sobreviviam passam a ser excluídos; vale uma primeira passada com o Modo teste de exclusão ligado.",
+    "url":  "https://github.com/hhernany/mw-releases/releases/download/v1.3.0/mw-1.3.0.exe",
+    "sha256":  "ce00e592f0185f17177a155490a878ddc460538171bd7a711a29320685f4b076"
 }
